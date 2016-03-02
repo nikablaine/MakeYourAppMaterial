@@ -106,6 +106,7 @@
         android:layout_gravity="bottom|end"
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_marginRight="@dimen/fab_margin"
-        android:layout_marginLeft="@dimen/fab_margin" />
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:stateListAnimator="@anim/fab_state_list_anim"/>
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
